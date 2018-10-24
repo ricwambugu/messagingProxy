@@ -1,2 +1,2 @@
 #
-This  is my collection of PHP wrapper classes that can be used to intergrate various messaging APIs used in Kenya
+This  is a collection of PHP wrapper classes that can be used to intergrate various messaging APIs used in Kenya
